@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 2000,
+    "id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/canvas/",
+    "label" : {
+      "none" : [ "E0A3717" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 63,
+              "height" : 47
+            }, {
+              "width" : 125,
+              "height" : 93
+            }, {
+              "width" : 250,
+              "height" : 186
+            }, {
+              "width" : 500,
+              "height" : 372
+            }, {
+              "width" : 1000,
+              "height" : 744
+            }, {
+              "width" : 2000,
+              "height" : 1488
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 2000,
+            "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1488
+          } ],
+          "format" : "image/jpeg",
+          "width" : 2000,
+          "id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1488
+        },
+        "target" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/canvas/"
+      } ]
+    } ],
+    "height" : 1488
+  }, {
     "width" : 1600,
     "id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3711/canvas/",
     "label" : {
