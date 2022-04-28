@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "J. Carpentier Paris 384",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>J. Carpentier Paris 384</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Paris",
+      "@type" : "oa:Tag",
+      "chars" : "Paris"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/63586333",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-04-28T13:07:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1651151276796",
+    "dcterms:modified" : "2022-04-28T13:08:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://allisonbearly.github.io/LumiereCinematographe/manifests/manifestlb.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=373,945,151,76"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M395.31694,956.29389c13.91024,-6.38778 33.53288,-11.14454 53.25062,-11.13886v0v0c19.71774,0.00568 36.89519,4.45556 53.25062,11.13886c16.35543,6.6833 22.71258,16.86736 22.05713,26.89158c-0.65545,10.02422 -8.32349,19.8886 -22.05713,26.89158c-13.73364,7.00298 -33.53288,11.14454 -53.25062,11.13886c-19.71774,-0.00568 -39.35397,-4.15862 -53.25062,-11.13886c-13.89665,-6.98024 -22.05373,-16.7878 -22.05713,-26.89158c-0.0034,-10.10378 8.14689,-20.5038 22.05713,-26.89158z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_20e0d488-9ec1-4791-a1f1-86d7e1ccb431\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"20.33898\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5ee31dc-31ee-4b05-b7f2-2e6e1b5f1a4f"
+    } ]
+  } ],
+  "@id" : "https://allisonbearly.github.io/LumiereCinematographe/annotations/1963fc609d7525e9914d6e0b26936434.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
