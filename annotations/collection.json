@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://allisonbearly.github.io/LumiereCinematographe/annotations/2c432b7a222af5ef146ec4f97891f39d.json" ],
+  "otherContent" : [ "https://allisonbearly.github.io/LumiereCinematographe/annotations/2c432b7a222af5ef146ec4f97891f39d.json", "https://allisonbearly.github.io/LumiereCinematographe/annotations/1963fc609d7525e9914d6e0b26936434.json" ],
   "@id" : "https://allisonbearly.github.io/LumiereCinematographe/annotations/collection.json",
   "label" : "All annotations loaded in allisonbearly/LumiereCinematographe project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
