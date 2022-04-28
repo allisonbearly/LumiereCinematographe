@@ -3,6 +3,11 @@
   "@id" : "https://allisonbearly.github.io/LumiereCinematographe/manifests/manifestlb.json",
   "@type" : "sc:Manifest",
   "label" : "LumiereCinematographe",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/63586333/c07ed883615367536e9c3006880fa6a4/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Early cinematic projector and camera. Device contained in a walnut wooden case with original lens. The case opens to reveal a hand-turned movement with a film advance mechanism and a gate for feeding film. The machine is marked 384, while the case is stamped 6563-159 and bears a brass plate with white-filled engraving detailing the inventors and engineer. ",
@@ -68,6 +73,11 @@
         },
         "on" : "http://a0f19814-eabe-4ec9-8912-ea3fef262fed"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://allisonbearly.github.io/LumiereCinematographe/annotations/2c432b7a222af5ef146ec4f97891f39d.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://b5ee31dc-31ee-4b05-b7f2-2e6e1b5f1a4f",
@@ -93,6 +103,11 @@
           "width" : 1333
         },
         "on" : "http://b5ee31dc-31ee-4b05-b7f2-2e6e1b5f1a4f"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://allisonbearly.github.io/LumiereCinematographe/annotations/1963fc609d7525e9914d6e0b26936434.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
