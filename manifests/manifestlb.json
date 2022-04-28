@@ -1,0 +1,127 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://allisonbearly.github.io/LumiereCinematographe/manifests/manifestlb.json",
+  "@type" : "sc:Manifest",
+  "label" : "LumiereCinematographe",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Early cinematic projector and camera. Device contained in a walnut wooden case with original lens. The case opens to reveal a hand-turned movement with a film advance mechanism and a gate for feeding film. The machine is marked 384, while the case is stamped 6563-159 and bears a brass plate with white-filled engraving detailing the inventors and engineer. ",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "EU, EP, House of European History, Brussels.",
+  "sequences" : [ {
+    "@id" : "http://375bfc55-a8f0-4443-8223-bd5c5e7cff2c",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://3337bd48-cfc1-430e-98c6-3e152d67bff7",
+      "@type" : "sc:Canvas",
+      "label" : "Cinematographe ensemble",
+      "height" : 2000,
+      "width" : 1333,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3ddd8ecb-54fd-4e8b-9b08-0d75f4ca0081",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3651/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3651",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 1333
+        },
+        "on" : "http://3337bd48-cfc1-430e-98c6-3e152d67bff7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a0f19814-eabe-4ec9-8912-ea3fef262fed",
+      "@type" : "sc:Canvas",
+      "label" : "Cinematographe front",
+      "height" : 2000,
+      "width" : 1600,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://fdafb562-32c7-4b34-819c-ffaa753e3088",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3711/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3711",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 1600
+        },
+        "on" : "http://a0f19814-eabe-4ec9-8912-ea3fef262fed"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://b5ee31dc-31ee-4b05-b7f2-2e6e1b5f1a4f",
+      "@type" : "sc:Canvas",
+      "label" : "Cinematographe inside",
+      "height" : 2000,
+      "width" : 1333,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f2322ec5-2716-4b0c-841e-af4a12035095",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3668/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3668",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2000,
+          "width" : 1333
+        },
+        "on" : "http://b5ee31dc-31ee-4b05-b7f2-2e6e1b5f1a4f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2c438bbc-727b-483c-b659-da59250796d4",
+      "@type" : "sc:Canvas",
+      "label" : "Projector side view",
+      "height" : 1488,
+      "width" : 2000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f51036e9-177d-4245-b537-2f2852ef37f2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://allisonbearly.github.io/LumiereCinematographe/images/E0A3717",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1488,
+          "width" : 2000
+        },
+        "on" : "http://2c438bbc-727b-483c-b659-da59250796d4"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
